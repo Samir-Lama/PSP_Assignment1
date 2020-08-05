@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=w_baby
+comment0.text=\n\ Write\ a\ description\ of\ class\ w_baby\ here.\n\ It\ is\ a\ class\ added\ by\ the\ player\ which\ can\ move\ up\ with\ 'w'\ and\ down\ with\ 's'\ key,\ located\ at\ the\ barrier's\ right\ side.\n\ @author\ (Samir\ Lama)\ \n\ @version\ (May\ 2020)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ w_baby\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2

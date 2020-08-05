@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=b_baby
+comment0.text=\n\ Write\ a\ description\ of\ class\ b_baby\ here.\n\ It\ is\ a\ class\ added\ by\ the\ player\ which\ can\ move\ up\ with\ up\ arrow\ key\ and\ down\ with\ down\ arrow\ key,\ located\ at\ the\ right\ side\ of\ the\ barrier.\n\ @author\ (Samir\ Lama)\ \n\ @version\ (May\ 2020)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ b_baby\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=2

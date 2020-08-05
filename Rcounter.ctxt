@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rcounter
+comment0.text=\n\ Write\ a\ description\ of\ class\ Rcounter\ here.\n\ This\ class\ is\ for\ displaying\ the\ score\ counter\ on\ the\ right\ side\ and\ adds\ the\ score\ to\ the\ right\ when\ it\ touch\ the\ left\ side.\n@author\ (Samir\ Lama)\ \n\ @version\ (May\ 2020)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Rcounter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ r_adder()
+numComments=3

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Lcounter
+comment0.text=\n\ Write\ a\ description\ of\ class\ Lcounter\ here.\n\ This\ class\ is\ for\ displaying\ the\ score\ counter\ on\ the\ left\ side\ and\ adds\ the\ score\ to\ the\ left\ when\ it\ touch\ the\ roght\ side.\n@author\ (Samir\ Lama)\ \n\ @version\ (May\ 2020)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Lcounter\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ l_adder()
+numComments=3
